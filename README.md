@@ -1,4 +1,5 @@
 Análise de Churn em Empresa de Telecomunicações
+
 Este projeto tem como objetivo principal analisar o churn de clientes de uma empresa de telecomunicações.
 A análise de churn, ou evasão de clientes, é crucial para que a empresa possa identificar os fatores que levam os clientes a cancelarem seus serviços e, a partir daí, desenvolver estratégias para retê-los.
 
